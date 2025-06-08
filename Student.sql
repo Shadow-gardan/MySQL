@@ -29,3 +29,6 @@ value
 (5,'Lax','I.T',2,2,'Itlay','XYZ@gmail.com',1548456233);
 
 select * from student;
+
+drop table student;
+drop database collage;
